@@ -47,7 +47,7 @@ Before you can use CBMI, you’ll need to set it up. Here’s the step-by-step:
 1. **Clone the Repository**:
    - Grab the code from GitHub:
      ```bash
-     git clone https://github.com/yourusername/cbmi.git
+     git clone https://github.com/jdmx0/cbmi.git
      cd cbmi
      ```
 
