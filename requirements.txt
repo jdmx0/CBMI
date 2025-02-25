@@ -1,0 +1,8 @@
+tweepy
+praw
+textblob
+pandas
+matplotlib
+reportlab
+pytrends
+scikit-learn
